@@ -21,3 +21,6 @@ SSLSocketFactory
 SSLServerSocket 
 SSLServerSocketFactory
 
+
+#Transport Layer Security (TLS) is the successor protocol to SSL
+
